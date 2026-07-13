@@ -1,0 +1,6 @@
+if SHIELD_CLICKER
+
+config ZMK_KEYBOARD_NAME
+    default "clicker"
+
+endif

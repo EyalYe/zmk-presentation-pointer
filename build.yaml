@@ -1,0 +1,8 @@
+# This file generates the GitHub Actions matrix.
+---
+include:
+  - board: nice_nano@2.0.0//zmk
+    shield: clicker air_mouse
+    artifact-name: clicker_air_mouse
+  - board: nice_nano@2.0.0//zmk
+    shield: settings_reset

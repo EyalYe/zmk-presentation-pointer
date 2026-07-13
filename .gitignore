@@ -1,0 +1,11 @@
+# local west workspace / build artifacts
+.west/
+.venv/
+build/
+zmk/
+modules/
+optional/
+tools/
+bootloader/
+zephyr/*
+!zephyr/module.yml
