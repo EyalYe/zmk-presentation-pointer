@@ -6,5 +6,5 @@
 };
 
 &gyro_input {
-  scale_div = <100>;
+  scale-div = <100>;
 };
